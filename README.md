@@ -20,10 +20,4 @@ useSystemColorMode: false,
 
 <p align="center">This project aims to help developers to use light and dark mode in their projects using <a href="https://chakra-ui.com">Chakra UI</a> and <a href="https://nextjs.org/">Next.js</a>, in addition to <a href="https://www.typescriptlang.org/">Typescript</a>.
 
-# Demo of the application
-
-
-# 🚀 Run the project on your machine
-
-# The application will start on port:3000 - go to <http://localhost:3000>
 ```
