@@ -22,28 +22,8 @@ useSystemColorMode: false,
 
 # Demo of the application
 
-[Clicking here](https://light-dark-mode-chakraui-pt-4l58jrokx-jpc0rrea.vercel.app/) will take you to the live application.
 
 # 🚀 Run the project on your machine
-
-```bash
-# Clone this repository
-$ git clone https://github.com/jpc0rrea/light-dark-mode-chakraui-en
-
-# Access the project folder in terminal/cmd
-$ cd light-dark-mode-chakraui-en
-
-# Install the dependencies
-$ npm install
-
-# or install using yarn
-$ yarn
-
-# Run the application in development mode
-$ npm run dev
-
-# or using yarn
-$ yarn dev
 
 # The application will start on port:3000 - go to <http://localhost:3000>
 ```
